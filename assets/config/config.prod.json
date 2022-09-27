@@ -14,7 +14,7 @@
         "domain": "https://learningml.org"
     },
     "easyml": {
-        "url": "http://127.0.0.1:20113",
-        "domain": "http://127.0.0.1:20113"
+        "url": "https://127.0.0.1:20113",
+        "domain": "https://127.0.0.1:20113"
     }
 }
